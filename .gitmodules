@@ -1,0 +1,18 @@
+[submodule "binocular_stereo"]
+	path = binocular_stereo
+	url = https://github.com/CMU-CVA-16720/CVA_hw4
+[submodule "bag_of_words"]
+	path = bag_of_words
+	url = https://github.com/CMU-CVA-16720/CVA_hw1
+[submodule "homography"]
+	path = homography
+	url = https://github.com/CMU-CVA-16720/CVA_hw2
+[submodule "lucas-kanade"]
+	path = lucas-kanade
+	url = https://github.com/CMU-CVA-16720/CVA_hw3
+[submodule "neural_networks"]
+	path = neural_networks
+	url = https://github.com/CMU-CVA-16720/CVA_hw5
+[submodule "photo_stereo"]
+	path = photo_stereo
+	url = https://github.com/CMU-CVA-16720/CVA_hw6
